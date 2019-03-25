@@ -94,7 +94,8 @@ Using modular script loader :
 - [Using Require.js](https://github.com/pandao/editor.md/tree/master/examples/use-requirejs.html)
 - [Using Sea.js](https://github.com/pandao/editor.md/tree/master/examples/use-seajs.html)
 
-设置代码标记中的字体，可以找这些类：
+- 设置代码标记中的字体，可以找这些类 :
+
 .editormd-html-preview code,
 .editormd-html-preview kbd,
 .editormd-html-preview pre,
